@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/auRASCL/RASCL/svn/!svn/ver/28/AURASCL/default/dep
+END
+hardwareInit.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/auRASCL/RASCL/svn/!svn/ver/17/AURASCL/default/dep/hardwareInit.o.d
+END
+ControlSystem.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/auRASCL/RASCL/svn/!svn/ver/20/AURASCL/default/dep/ControlSystem.o.d
+END
+AURASCL.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/auRASCL/RASCL/svn/!svn/ver/28/AURASCL/default/dep/AURASCL.o.d
+END
+Accelerometer.o.d
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/auRASCL/RASCL/svn/!svn/ver/17/AURASCL/default/dep/Accelerometer.o.d
+END
